@@ -1,2 +1,0 @@
-# RNDemos
-RN Demos

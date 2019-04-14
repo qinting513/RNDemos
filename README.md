@@ -1,7 +1,7 @@
 # RNDemos
 RN Demos
 
-SectionList 分区视图
+SectionList  分区视图
 https://www.cnblogs.com/hualuoshuijia/p/9803724.html
 
 keyExtractor={(item, index) => ("index" + index + item)}
